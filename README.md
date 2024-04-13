@@ -1,0 +1,2 @@
+# MLM_Project3_VehicleMarketSegmentation_Cross-Validation-and-Ensemble-Methods
+This repository contains machine learning models (Decision Tree, SVM, Random Forest) for vehicle market segmentation. Explore accurate and reliable algorithms for assessing market segmentation, with insights into feature importance and model comparisons. Enhance lending practices and risk management strategies using advanced predictive analytics
